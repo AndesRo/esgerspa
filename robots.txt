@@ -1,0 +1,11 @@
+# robots.txt para Esger - Soluciones Energéticas
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /tmp/
+Disallow: /private/
+Disallow: /*.php$
+Disallow: /*.inc$
+
+# Sitemap
+Sitemap: https://www.esger.cl/sitemap.xml
