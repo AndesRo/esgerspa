@@ -6,7 +6,7 @@
 
 Sitio web corporativo para empresa especializada en instalaciones eléctricas y energía solar.
 
-![Captura de la página principal](images/banners/preview.jpg)
+![Captura de la página principal](images/banners/2.png)
 
 ## 🚀 Características Destacadas
 
